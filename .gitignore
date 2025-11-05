@@ -1,0 +1,19 @@
+# KiCad junk & build artifacts
+**/*.bak
+**/*.bck
+**/*.tmp
+**/*.cache
+**/fp-info-cache
+**/*.kicad_prl
+**/*.dcm
+**/*.net
+**/autobackup/
+
+# OS/Tools
+.DS_Store
+Thumbs.db
+
+# CI outputs
+/build/
+docs/*.zip
+docs/*.pdf
