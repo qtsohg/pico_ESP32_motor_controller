@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Olpie_Connectors)(type Legacy)
+       (uri "${KICAD_USER_LIB}/symbols/olpie_connectors.kicad_sym")(options "")(descr "Olpie connectors"))
+)
