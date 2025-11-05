@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name MP1584EN)(type KiCad)(uri "${KICAD_USER_LIB}/footprints/MP1584EN.pretty")(options "")(descr "MP1584EN"))
+  (lib (name TB66)(type KiCad)(uri "${KICAD_USER_LIB}/footprints/TB66.pretty")(options "")(descr "TB66"))
+  (lib (name TCA9548a)(type KiCad)(uri "${KICAD_USER_LIB}/footprints/TCA9548a.pretty")(options "")(descr "TCA9548a"))
+  (lib (name fuse_holder_3568)(type KiCad)(uri "${KICAD_USER_LIB}/footprints/fuse_holder_3568.pretty")(options "")(descr "fuse_holder_3568"))
+)

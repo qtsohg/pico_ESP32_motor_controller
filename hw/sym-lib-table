@@ -1,4 +1,6 @@
 (sym_lib_table
-  (lib (name Olpie_Connectors)(type Legacy)
-       (uri "${KICAD_USER_LIB}/symbols/olpie_connectors.kicad_sym")(options "")(descr "Olpie connectors"))
+  (lib (name MP1584EN)(type KiCad)(uri "${KICAD_USER_LIB}/symbols/MP1584EN.kicad_sym")(options "")(descr "MP1584EN"))
+  (lib (name TB66)(type KiCad)(uri "${KICAD_USER_LIB}/symbols/TB66.kicad_sym")(options "")(descr "TB66"))
+  (lib (name TCA9548a)(type KiCad)(uri "${KICAD_USER_LIB}/symbols/TCA9548a.kicad_sym")(options "")(descr "TCA9548a"))
+  (lib (name fuse_holder_3568)(type KiCad)(uri "${KICAD_USER_LIB}/symbols/fuse_holder_3568.kicad_sym")(options "")(descr "fuse_holder_3568"))
 )
